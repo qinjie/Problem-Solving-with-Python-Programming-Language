@@ -1,0 +1,20 @@
+int
+String
+	Basic usage of string
+User-defined Functions
+	How to define a function?
+	Input parameters
+	Return
+List
+	Slicing
+	Access by Index
+Dictionary
+	Create dictionary
+	Add item into dictionary
+	Update item
+for-loop
+	by item
+	by index
+	How to compare 2 consecutive items?
+Recursive
+	
